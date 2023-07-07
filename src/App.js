@@ -1,10 +1,9 @@
-import './App.css';
+
 
 function App() {
   return (
     <div className="App">
-      <h1>Hello React !!!</h1>
-      <p>My second App.</p>
+      <p>Costs</p>
     </div>
   );
 }
